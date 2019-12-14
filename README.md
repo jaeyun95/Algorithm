@@ -4,7 +4,8 @@
 문제 및 자세한 설명
 ▶https://blog.naver.com/jaeyoon_95
 
-
+- - -
+## 알고리즘 기초(Algorithm Basic)
 1. [홀수 짝수 판별](https://blog.naver.com/jaeyoon_95/221691259800)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day01.py)
 2. [좌표평면 두 점 사이 거리 구하기](https://blog.naver.com/jaeyoon_95/221691265343)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day02.py)
 3. [퀵정렬](https://blog.naver.com/jaeyoon_95/221691282323)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day03.py)
