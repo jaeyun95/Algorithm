@@ -14,4 +14,5 @@
 6. [가장 많이 등장하는 알파벳 개수 구하기](https://blog.naver.com/jaeyoon_95/221694309817)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day06.py)
 7. [이진탐색](https://blog.naver.com/jaeyoon_95/221698971929)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day07.py)
 8. [쉘 정렬](https://blog.naver.com/jaeyoon_95/221737261452)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day08.py)
+9. [이진수 십진수 변환](https://blog.naver.com/jaeyoon_95/221753032789)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day08.py)
 
