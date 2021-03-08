@@ -2,10 +2,18 @@
 알고리즘 기초 공부
 
 문제 및 자세한 설명
-▶https://blog.naver.com/jaeyoon_95
+▶https://blog.naver.com/jaeyoon_95   
 
 - - -
-## 알고리즘 기초(Algorithm Basic)
+## 알고리즘 기초 개념(Algorithm Basic)
+1. [시간 복잡도(Big-O)](https://blog.naver.com/jaeyoon_95/222227998443)
+2. [알고리즘 기본 팁들](https://blog.naver.com/jaeyoon_95/222229444962)
+3. [진수와 진법/거듭제곱연산/최대공약수/최소공배수/소수](https://blog.naver.com/jaeyoon_95/222248153848)
+4. [정렬 문제/선택 정렬](https://blog.naver.com/jaeyoon_95/222268752780)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/select_sort.py)
+
+
+- - -
+## 알고리즘 기초 예제(Algorithm Basic)
 1. [홀수 짝수 판별](https://blog.naver.com/jaeyoon_95/221691259800)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day01.py)
 2. [좌표평면 두 점 사이 거리 구하기](https://blog.naver.com/jaeyoon_95/221691265343)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day02.py)
 3. [퀵정렬](https://blog.naver.com/jaeyoon_95/221691282323)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/code/day03.py)
