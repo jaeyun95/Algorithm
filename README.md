@@ -10,7 +10,8 @@
 2. [알고리즘 기본 팁들](https://blog.naver.com/jaeyoon_95/222229444962)
 3. [진수와 진법/거듭제곱연산/최대공약수/최소공배수/소수](https://blog.naver.com/jaeyoon_95/222248153848)
 4. [정렬 문제/선택 정렬](https://blog.naver.com/jaeyoon_95/222268752780)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/select_sort.py)
-
+5. [삽입 정렬](https://blog.naver.com/jaeyoon_95/222268752780)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/insertion_sort.py)
+6. [합병 정렬](https://blog.naver.com/jaeyoon_95/222268752780)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/merge_sort.py)
 
 - - -
 ## 알고리즘 기초 예제(Algorithm Basic Example)
