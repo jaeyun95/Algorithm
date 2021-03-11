@@ -12,7 +12,7 @@
 4. [정렬 문제/선택 정렬](https://blog.naver.com/jaeyoon_95/222268752780)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/select_sort.py)
 5. [삽입 정렬](https://blog.naver.com/jaeyoon_95/222269820546)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/insertion_sort.py)
 6. [합병 정렬](https://blog.naver.com/jaeyoon_95/222269929064)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/merge_sort.py)
-7. [힙 정렬](https://blog.naver.com/jaeyoon_95/222270874346)  [[코드]]
+7. [힙 정렬](https://blog.naver.com/jaeyoon_95/222270874346)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/heap_sort.py)
 
 - - -
 ## 알고리즘 기초 예제(Algorithm Basic Example)
