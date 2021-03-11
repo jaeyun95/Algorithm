@@ -1,22 +1,19 @@
 
-def heapify(lst, index):
+def heapify(lst, index, size):
     parent = index
     child = 2 * index + 1
-    if child < len(lst) and lst[child] > lst[parent]:
+    if child < size and lst[child] > lst[parent]:
         parent = child
-    if (child + 1) < len(lst) and lst[(child + 1)] > lst[parent]:
+    if (child + 1) < size and lst[(child + 1)] > lst[parent]:
         parent = (child + 1)
     if parent != index:
         lst[parent], lst[index] = lst[index], lst[parent]
-        heapify(lst, parent)
+        heapify(lst, parent, size)
 
 def heap_sort(lst):
-    sorted_list = []
     for i in range(len(lst)//2-1,-1,-1):
-        heapify(lst, i)
-
+        heapify(lst, i, len(lst))
     for i in range(len(lst) - 1, 0, -1):
-        sorted_list.insert(0,lst.pop(0))
-        heapify(lst, 0)
-    sorted_list.insert(0, lst.pop(0))
-    return sorted_list
+        lst[0], lst[i] = lst[i], lst[0]
+        heapify(lst, 0, i)
+    return lst
