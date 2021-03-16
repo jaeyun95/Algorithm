@@ -14,6 +14,8 @@
 6. [합병 정렬](https://blog.naver.com/jaeyoon_95/222269929064)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/merge_sort.py)
 7. [힙 정렬](https://blog.naver.com/jaeyoon_95/222270874346)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/heap_sort.py)
 8. [퀵 정렬](https://blog.naver.com/jaeyoon_95/222272546376)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/heap_sort.py)
+9. [계수 정렬](https://blog.naver.com/jaeyoon_95/222277827989)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/counting_sort.py)
+10. [기수 정렬](https://blog.naver.com/jaeyoon_95/222277879488)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/radix_sort.py)
 
 - - -
 ## 알고리즘 기초 예제(Algorithm Basic Example)
