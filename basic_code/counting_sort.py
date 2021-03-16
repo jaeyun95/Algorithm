@@ -10,6 +10,6 @@ def counting_sort(lst, K):
         count_lst[count] += count_lst[count-1]
 
     for index in range(len(lst)):
-        sorted_lst[count_lst[lst[index]]] = lst[index]
+        sorted_lst[count_lst[lst[index]]-1] = lst[index]
         count_lst[lst[index]] -= 1
     return sorted_lst
