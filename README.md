@@ -18,6 +18,7 @@
 10. [기수 정렬](https://blog.naver.com/jaeyoon_95/222277879488)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/radix_sort.py)
 11. [너비 우선 탐색](https://blog.naver.com/jaeyoon_95/222295308676)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/bfs.py)
 12. [깊이 우선 탐색](https://blog.naver.com/jaeyoon_95/222295331645)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/dfs.py)
+13. [다익스트라 알고리즘](https://blog.naver.com/jaeyoon_95/222296289286)  [[코드]](https://github.com/jaeyun95/Algorithm/blob/master/basic_code/dijkstra.py)
 
 - - -
 ## 알고리즘 기초 예제(Algorithm Basic Example)
